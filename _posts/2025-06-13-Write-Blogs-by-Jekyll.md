@@ -11,7 +11,7 @@ comments: false
 
 ## 参考资料
 Jekyll 相关：
- - [Step by Step Tutorial](http://jekyllrb.com/docs/step-by-step/01-setup/)
+ - [Step by Step Tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/)
 
 Chirpy 相关：
  - [jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy/)
