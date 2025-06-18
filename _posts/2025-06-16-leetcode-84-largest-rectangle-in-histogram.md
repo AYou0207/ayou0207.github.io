@@ -4,7 +4,7 @@ date: 2025-06-16 15:50:00 +0800
 categories: [Leetcode, MonoStack]
 tags: [leetcode, monostack, medium]
 author: ayou
-description: 记录每个位置的左右小于当前位置的位置。单调栈。
+description: 记录每个位置的左右小于当前高度的位置。单调栈。
 comments: true
 ---
 
