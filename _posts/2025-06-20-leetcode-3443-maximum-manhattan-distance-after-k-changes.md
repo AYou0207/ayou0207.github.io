@@ -1,6 +1,6 @@
 ---
 title: K 次修改后的最大曼哈顿距离
-date: 2025-06-17 16:30:00 +0800
+date: 2025-06-20 16:30:00 +0800
 categories: [Leetcode, Greedy]
 tags: [leetcode, greedy]
 author: ayou
