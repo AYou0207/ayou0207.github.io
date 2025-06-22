@@ -1,7 +1,7 @@
 ---
 title: 检查元素频次是否为质数
 date: 2025-06-22 14:25:00 +0800
-categories: [Leetcode, Simulate]
+categories: [Leetcode, Simulation]
 tags: [leetcode, easy]
 author: ayou
 description: 检查数组元素出现频次是否为质数。模拟-质数-埃式筛法。

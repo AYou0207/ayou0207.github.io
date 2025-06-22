@@ -1,7 +1,7 @@
 ---
 title: 将字符串拆分为若干长度为 k 的组
 date: 2025-06-22 01:35:00 +0800
-categories: [Leetcode, Simulate]
+categories: [Leetcode, Simulation]
 tags: [leetcode, easy]
 author: ayou
 description: 按照要求对字符串进行处理。模拟。

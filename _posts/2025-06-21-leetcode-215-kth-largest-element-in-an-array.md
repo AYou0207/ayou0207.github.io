@@ -1,7 +1,7 @@
 ---
 title: 数组中的第K个最大元素
 date: 2025-06-21 02:20:00 +0800
-categories: [Leetcode, quicksort]
+categories: [Leetcode, Quicksort]
 tags: [leetcode, quicksort, three-way, medium]
 author: ayou
 description: 求数组内的第 K 大数字。三路快排变种。
