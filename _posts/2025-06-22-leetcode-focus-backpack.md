@@ -111,21 +111,35 @@ def backpack(capacity: int, weights: list[int], values: list[int]) -> int:
 
 ### 常见变体
 以**0-1 背包**问题为例，有以下常见变种：
-- 体积至多为`capacity`，求*方案数*或*最大价值和*
-- 体积恰好为`capacity`，求*方案数*或*最大价值和*或*最小价值和*
-- 体积至少为`capacity`，求*方案数*或*最小价值和*
+- 体积至多为`capacity`，求*方案数*或*最大价值和*或*是否可行*
+- 体积恰好为`capacity`，求*方案数*或*最大价值和*或*最小价值和*或*是否可行*
+- 体积至少为`capacity`，求*方案数*或*最小价值和*或*是否可行*
+
+当目标为*最大价值数*时，递推公式，即
+$$
+\text{dfs}(i, c) = \max(
+    \text{dfs}(i-1, c),
+    \text{dfs}(i-1, c-w_i) + v_i
+)
+$$
 
 求*方案数*时，递推公式中的 `\max` 需要替换为 `+`，即
 $$
-\text{dfs}(i, c) = \text{dfs}(i-1, c) + \text{dfs}({\color{\red} i}, c-w_i)
+\text{dfs}(i, c) = \text{dfs}(i-1, c) + \text{dfs}(i-1, c-w_i)
 $$
 
 求*最小价值数*时，递推公式中的 `\max` 需要替换为 `\min`，即
 $$
 \text{dfs}(i, c) = \min(
     \text{dfs}(i-1, c),
-    \text{dfs}({\color{\red} i}, c-w_i) + v_i
+    \text{dfs}(i-1, c-w_i) + v_i
 )
+$$
+
+求*是否可行*时，递推公式中的 `\max` 需要替换为 `or` （布尔或操作），即
+$$
+\text{dfs}(i, c) = 
+    \text{dfs}(i-1, c) \lor \text{dfs}(i-1, c-w_i)
 $$
 
 而体积**至多**或**至少**则影响边界条件的判断，以求*方案数*为例，呈现对比如下：
@@ -224,6 +238,31 @@ def backpack(capacity: int, weights: list[int], values: list[int]) -> int:
 >
 > 当 $\text{dp}(i, c)$ 依赖于 $\text{dp}({\color{\red} i-1, c})$ 与 $\text{dp}({\color{\red} i, c-\Delta})$ 时，应当**正序**。
 {: .prompt-warning}
+
+当目标为*是否存在可行解*时，还可以进一步用 bitset 的位操作进行优化。我们先给出**01 背包**中容量恰好等于 `capacity`的*一个数组*的代码：
+
+```python
+def backpack(capacity: int, weights: list[int], values: list[int]) -> bool:
+    dp = [True] + [False] * capacity
+    for w in weights:
+        for c in range(capacity, w-1, -1):
+            dp[c] = dp[c] or dp[c-w]
+    return dp[capacity]
+```
+{: file="一个数组"}
+
+转换为 bitset 时，难点在于理解递归公式为何可以使用位操作`dp |= dp >> w`实现。此时 `dp >> i & 1` 表示的是 `c=i` 的可行情况，它应当为 `dp[i]`（第`i`位置的布尔值） 与 `dp[i-w]`（第`i-w`位置的布尔值）的逻辑或；同时位操作相当于并行计算了所有 $[w, c]$ 的情况。
+
+```python
+def backpack(capacity: int, weights: list[int], values: list[int]) -> bool:
+    dp = 1
+    for w in weights:
+        dp |= dp >> w
+    return dp >> capacity & 1 == 1
+```
+
+> 该技巧不仅能优化空间复杂度，也能优化时间复杂度。
+{: .prompt-info}
 
 ## 进阶
 ### 多重背包
