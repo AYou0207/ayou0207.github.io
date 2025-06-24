@@ -2,7 +2,7 @@
 title: 【专题】位操作
 date: 2025-06-22 15:00:00 +0800
 categories: [Leetcode, Focus]
-tags: [leetcode, bit-manipulation]
+tags: [leetcode, focus, bit-manipulation]
 author: ayou
 description: 常见的位操作技巧。
 math: true

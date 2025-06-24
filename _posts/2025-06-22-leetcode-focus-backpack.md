@@ -1,8 +1,8 @@
 ---
 title: 动态规划 - 0-1 背包 及 完全背包
 date: 2025-06-22 20:10:00 +0800
-categories: [Leetcode, Backpack]
-tags: [leetcode, series, backpack, DP]
+categories: [Leetcode, Focus]
+tags: [leetcode, focus, backpack]
 author: ayou
 description: 背包问题集合。
 math: true
