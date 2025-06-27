@@ -1,8 +1,8 @@
 ---
 title: 零数组变换 IV
-date: 2025-06-24 12:30:00 +0800
-categories: [Leetcode, Slice]
-tags: [leetcode, slice]
+date: 2025-06-24 13:00:00 +0800
+categories: [Leetcode, Backpack]
+tags: [leetcode, backpack]
 author: ayou
 description: 判断一定范围内的数字是否存在等于目标值的，返回这些位置的索引序列。滑动窗口。
 comments: true
