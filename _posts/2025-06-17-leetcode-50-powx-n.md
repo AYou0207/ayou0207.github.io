@@ -1,5 +1,5 @@
 ---
-title: Pow(x, n)
+title: 50. Pow(x, n)
 date: 2025-06-17 14:20:00 +0800
 categories: [Leetcode, Template]
 tags: [leetcode, template, pow]

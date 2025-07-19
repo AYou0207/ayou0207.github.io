@@ -1,5 +1,5 @@
 ---
-title: 将字符串拆分为若干长度为 k 的组
+title: 2138. 将字符串拆分为若干长度为 k 的组
 date: 2025-06-22 01:35:00 +0800
 categories: [Leetcode, Simulation]
 tags: [leetcode, easy]

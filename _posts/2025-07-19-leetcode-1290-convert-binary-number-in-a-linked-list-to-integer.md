@@ -1,5 +1,5 @@
 ---
-title: 二进制链表转整数
+title: 1290. 二进制链表转整数
 date: 2025-07-19 19:00:00 +0800
 categories: [Leetcode, LinkedList]
 tags: [leetcode, linked-list]

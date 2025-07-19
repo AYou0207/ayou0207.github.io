@@ -1,5 +1,5 @@
 ---
-title: 硬币面值还原
+title: 3592. 硬币面值还原
 date: 2025-06-22 14:45:00 +0800
 categories: [Leetcode, Backpack]
 tags: [leetcode, backpack]

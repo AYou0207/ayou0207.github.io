@@ -1,5 +1,5 @@
 ---
-title: 替换一个数字后的最大差值
+title: 2566. 替换一个数字后的最大差值
 date: 2025-06-15 12:30:00 +0800
 categories: [Leetcode, Greedy]
 tags: [leetcode, greedy, easy]

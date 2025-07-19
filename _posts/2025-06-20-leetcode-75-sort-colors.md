@@ -1,5 +1,5 @@
 ---
-title: 颜色分类
+title: 75. 颜色分类
 date: 2025-06-20 19:30:00 +0800
 categories: [Leetcode, Template]
 tags: [leetcode, quicksort, three-way, template, base]

@@ -1,5 +1,5 @@
 ---
-title: 单词搜索
+title: 79. 单词搜索
 date: 2025-06-15 21:00:00 +0800
 categories: [Leetcode, Backtracking]
 tags: [leetcode, base, backtracking]

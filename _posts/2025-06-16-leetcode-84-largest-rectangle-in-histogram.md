@@ -1,5 +1,5 @@
 ---
-title: 柱状图中最大的矩形
+title: 84. 柱状图中最大的矩形
 date: 2025-06-16 15:50:00 +0800
 categories: [Leetcode, MonoStack]
 tags: [leetcode, monostack, medium]

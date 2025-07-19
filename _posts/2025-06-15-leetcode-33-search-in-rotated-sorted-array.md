@@ -1,5 +1,5 @@
 ---
-title: 搜索旋转排序数组
+title: 33. 搜索旋转排序数组
 date: 2025-06-15 23:20:00 +0800
 categories: [Leetcode, Bisearch]
 tags: [leetcode, bisearch, medium]

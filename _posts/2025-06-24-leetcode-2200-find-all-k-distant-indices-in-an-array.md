@@ -1,5 +1,5 @@
 ---
-title: 找出数组中的所有 K 近邻下标
+title: 2200. 找出数组中的所有 K 近邻下标
 date: 2025-06-24 12:30:00 +0800
 categories: [Leetcode, Slice]
 tags: [leetcode, slice]

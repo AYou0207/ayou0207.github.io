@@ -1,5 +1,5 @@
 ---
-title: 分割回文串
+title: 131. 分割回文串
 date: 2025-06-15 21:25:00 +0800
 categories: [Leetcode, Backtracking]
 tags: [leetcode, base, backtracking]

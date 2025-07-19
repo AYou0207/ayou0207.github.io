@@ -1,5 +1,5 @@
 ---
-title: 统计特殊三元组
+title: 3583. 统计特殊三元组
 date: 2025-06-15 14:20:00 +0800
 categories: [Leetcode, Prefix]
 tags: [leetcode, prefix, medium]

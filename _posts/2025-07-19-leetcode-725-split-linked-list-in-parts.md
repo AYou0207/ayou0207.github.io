@@ -1,5 +1,5 @@
 ---
-title: 分隔链表
+title: 725. 分隔链表
 date: 2025-07-19 19:30:00 +0800
 categories: [Leetcode, LinkedList]
 tags: [leetcode, linked-list]

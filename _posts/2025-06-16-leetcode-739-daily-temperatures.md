@@ -1,5 +1,5 @@
 ---
-title: 每日温度
+title: 739. 每日温度
 date: 2025-06-16 13:20:00 +0800
 categories: [Leetcode, MonoStack]
 tags: [leetcode, monostack, medium]

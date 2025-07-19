@@ -1,5 +1,5 @@
 ---
-title: 改变一个整数能得到的最大差值
+title: 1432. 改变一个整数能得到的最大差值
 date: 2025-06-15 14:00:00 +0800
 categories: [Leetcode, Greedy]
 tags: [leetcode, greedy, easy]

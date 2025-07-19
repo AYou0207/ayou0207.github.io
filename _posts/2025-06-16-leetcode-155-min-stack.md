@@ -1,5 +1,5 @@
 ---
-title: 最小栈
+title: 155. 最小栈
 date: 2025-06-16 11:45:00 +0800
 categories: [Leetcode, Stack]
 tags: [leetcode, stack, custom-data-structure]

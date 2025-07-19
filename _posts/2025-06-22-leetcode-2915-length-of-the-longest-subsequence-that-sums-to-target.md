@@ -1,5 +1,5 @@
 ---
-title: 和为目标值的最长子序列的长度
+title: 2915. 和为目标值的最长子序列的长度
 date: 2025-06-22 21:30:00 +0800
 categories: [Leetcode, Backpack]
 tags: [leetcode, backpack]

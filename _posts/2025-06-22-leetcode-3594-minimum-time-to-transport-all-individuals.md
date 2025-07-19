@@ -1,5 +1,5 @@
 ---
-title: 所有人渡河所需的最短时间
+title: 3594. 所有人渡河所需的最短时间
 date: 2025-06-22 14:55:00 +0800
 categories: [Leetcode, Dijkstra]
 tags: [leetcode, graph, hard, Dijkstra]

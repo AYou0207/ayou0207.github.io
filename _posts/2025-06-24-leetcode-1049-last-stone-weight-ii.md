@@ -1,5 +1,5 @@
 ---
-title: 最后一块石头的重量 II
+title: 1049. 最后一块石头的重量 II
 date: 2025-06-24 13:45:00 +0800
 categories: [Leetcode, Backpack]
 tags: [leetcode, backpack]

@@ -1,5 +1,5 @@
 ---
-title: 为视频标题生成标签
+title: 3582. 为视频标题生成标签
 date: 2025-06-15 14:20:00 +0800
 categories: [Leetcode, Simulation]
 tags: [leetcode, simulation, easy]

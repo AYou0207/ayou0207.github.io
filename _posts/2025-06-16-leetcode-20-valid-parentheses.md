@@ -1,5 +1,5 @@
 ---
-title: 有效的括号
+title: 20. 有效的括号
 date: 2025-06-16 11:40:00 +0800
 categories: [Leetcode, Stack]
 tags: [leetcode, stack, base]

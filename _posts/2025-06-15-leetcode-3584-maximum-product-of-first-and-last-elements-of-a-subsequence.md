@@ -1,5 +1,5 @@
 ---
-title: 子序列首尾元素的最大乘积
+title: 3584. 子序列首尾元素的最大乘积
 date: 2025-06-15 14:50:00 +0800
 categories: [Leetcode]
 tags: [leetcode, medium]

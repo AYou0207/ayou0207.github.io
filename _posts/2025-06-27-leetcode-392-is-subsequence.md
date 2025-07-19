@@ -1,5 +1,5 @@
 ---
-title: 判断子序列
+title: 392. 判断子序列
 date: 2025-06-27 22:10:00 +0800
 categories: [Leetcode, Subsequence]
 tags: [leetcode, subsequence, template]

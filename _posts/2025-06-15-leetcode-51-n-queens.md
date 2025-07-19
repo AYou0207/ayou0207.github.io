@@ -1,5 +1,5 @@
 ---
-title: N 皇后
+title: 51. N 皇后
 date: 2025-06-15 21:30:00 +0800
 categories: [Leetcode, Backtracking]
 tags: [leetcode, medium, backtracking]

@@ -1,5 +1,5 @@
 ---
-title: 链表组件
+title: 817. 链表组件
 date: 2025-07-19 19:40:00 +0800
 categories: [Leetcode, LinkedList]
 tags: [leetcode, linked-list]

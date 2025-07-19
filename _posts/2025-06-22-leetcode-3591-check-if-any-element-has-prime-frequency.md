@@ -1,5 +1,5 @@
 ---
-title: 检查元素频次是否为质数
+title: 3591. 检查元素频次是否为质数
 date: 2025-06-22 14:25:00 +0800
 categories: [Leetcode, Simulation]
 tags: [leetcode, easy]

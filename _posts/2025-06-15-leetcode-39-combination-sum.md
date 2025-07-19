@@ -1,5 +1,5 @@
 ---
-title: 组合总和
+title: 39. 组合总和
 date: 2025-06-15 16:55:00 +0800
 categories: [Leetcode, Backtracking]
 tags: [leetcode, backtracking, medium]

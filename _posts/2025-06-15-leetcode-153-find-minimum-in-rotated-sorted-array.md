@@ -1,5 +1,5 @@
 ---
-title: 寻找旋转排序数组中的最小值
+title: 153. 寻找旋转排序数组中的最小值
 date: 2025-06-15 23:15:00 +0800
 categories: [Leetcode, Bisearch]
 tags: [leetcode, bisearch, medium]

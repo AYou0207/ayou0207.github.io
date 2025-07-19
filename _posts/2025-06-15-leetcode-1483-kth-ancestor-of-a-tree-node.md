@@ -1,5 +1,5 @@
 ---
-title: 树节点的第 K 个祖先
+title: 1483. 树节点的第 K 个祖先
 date: 2025-06-15 15:25:00 +0800
 categories: [Leetcode, Template, LCA]
 tags: [leetcode, LCA, template]

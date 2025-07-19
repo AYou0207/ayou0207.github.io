@@ -1,5 +1,5 @@
 ---
-title: 寻找两个正序数组的中位数
+title: 4. 寻找两个正序数组的中位数
 date: 2025-06-15 23:40:00 +0800
 categories: [Leetcode, Bisearch]
 tags: [leetcode, bisearch, hard]

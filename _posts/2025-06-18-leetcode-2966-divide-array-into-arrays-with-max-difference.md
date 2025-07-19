@@ -1,5 +1,5 @@
 ---
-title: 划分数组并满足最大差限制
+title: 2966. 划分数组并满足最大差限制
 date: 2025-06-18 12:30:00 +0800
 categories: [Leetcode, Greedy]
 tags: [leetcode, greedy]

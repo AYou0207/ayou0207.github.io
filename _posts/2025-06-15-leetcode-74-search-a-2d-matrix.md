@@ -1,5 +1,5 @@
 ---
-title: 搜索二维矩阵
+title: 74. 搜索二维矩阵
 date: 2025-06-15 21:50:00 +0800
 categories: [Leetcode, Bisearch]
 tags: [leetcode, bisearch, medium]

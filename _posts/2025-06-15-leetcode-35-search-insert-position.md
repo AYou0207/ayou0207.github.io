@@ -1,5 +1,5 @@
 ---
-title: 搜索插入位置
+title: 35. 搜索插入位置
 date: 2025-06-15 21:40:00 +0800
 categories: [Leetcode, Bisearch]
 tags: [leetcode, bisearch, base]

@@ -1,5 +1,5 @@
 ---
-title: 字符串解码
+title: 394. 字符串解码
 date: 2025-06-16 12:10:00 +0800
 categories: [Leetcode, Stack]
 tags: [leetcode, stack, medium]

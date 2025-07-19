@@ -1,5 +1,5 @@
 ---
-title: 将一个数字表示成幂的和的方案数
+title: 2787. 将一个数字表示成幂的和的方案数
 date: 2025-06-22 21:45:00 +0800
 categories: [Leetcode, Template]
 tags: [leetcode, backpack, template]

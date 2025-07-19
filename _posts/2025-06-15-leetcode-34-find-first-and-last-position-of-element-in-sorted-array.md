@@ -1,5 +1,5 @@
 ---
-title: 在排序数组中查找元素的第一个和最后一个位置
+title: 34. 在排序数组中查找元素的第一个和最后一个位置
 date: 2025-06-15 21:55:00 +0800
 categories: [Leetcode, Bisearch]
 tags: [leetcode, bisearch, medium]

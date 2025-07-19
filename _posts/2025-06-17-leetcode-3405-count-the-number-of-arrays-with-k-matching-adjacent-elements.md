@@ -1,5 +1,5 @@
 ---
-title: 统计恰好有 K 个相等相邻元素的数组数目
+title: 3405. 统计恰好有 K 个相等相邻元素的数组数目
 date: 2025-06-17 14:40:00 +0800
 categories: [Leetcode, Math]
 tags: [leetcode, math, combination]

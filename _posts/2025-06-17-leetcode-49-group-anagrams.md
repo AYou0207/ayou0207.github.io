@@ -1,5 +1,5 @@
 ---
-title: 字母异位词分组
+title: 49. 字母异位词分组
 date: 2025-06-17 13:15:00 +0800
 categories: [Leetcode, Hash]
 tags: [leetcode, hash, easy]

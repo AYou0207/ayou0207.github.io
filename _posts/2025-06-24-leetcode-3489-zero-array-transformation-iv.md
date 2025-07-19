@@ -1,5 +1,5 @@
 ---
-title: 零数组变换 IV
+title: 3489. 零数组变换 IV
 date: 2025-06-24 13:00:00 +0800
 categories: [Leetcode, Backpack]
 tags: [leetcode, backpack]

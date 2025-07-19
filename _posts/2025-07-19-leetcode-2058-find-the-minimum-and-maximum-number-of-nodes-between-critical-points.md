@@ -1,5 +1,5 @@
 ---
-title: 找出临界点之间的最小和最大距离
+title: 2058. 找出临界点之间的最小和最大距离
 date: 2025-07-19 19:15:00 +0800
 categories: [Leetcode, LinkedList]
 tags: [leetcode, linked-list]

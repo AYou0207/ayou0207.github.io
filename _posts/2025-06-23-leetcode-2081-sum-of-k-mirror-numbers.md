@@ -1,5 +1,5 @@
 ---
-title: k 镜像数字的和
+title: 2081. k 镜像数字的和
 date: 2025-06-23 21:45:00 +0800
 categories: [Leetcode, Palindrome]
 tags: [leetcode, palindrome, template]

@@ -1,5 +1,5 @@
 ---
-title: 使叶子路径成本相等的最小增量
+title: 3593. 使叶子路径成本相等的最小增量
 date: 2025-06-22 14:35:00 +0800
 categories: [Leetcode, GraphDFS]
 tags: [leetcode, graph, dfs]

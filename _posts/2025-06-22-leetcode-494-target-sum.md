@@ -1,5 +1,5 @@
 ---
-title: 目标和
+title: 494. 目标和
 date: 2025-06-22 21:10:00 +0800
 categories: [Leetcode, Backpack]
 tags: [leetcode, backpack]

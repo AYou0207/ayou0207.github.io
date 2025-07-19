@@ -1,5 +1,5 @@
 ---
-title: 树中找到带权中位节点
+title: 3585. 树中找到带权中位节点
 date: 2025-06-15 15:45:00 +0800
 categories: [Leetcode, LCA]
 tags: [leetcode, hard, LCA]

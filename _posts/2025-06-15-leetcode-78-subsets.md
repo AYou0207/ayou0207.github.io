@@ -1,5 +1,5 @@
 ---
-title: 子集
+title: 78. 子集
 date: 2025-06-15 16:25:00 +0800
 categories: [Leetcode, Backtracking]
 tags: [leetcode, base, backtracking]

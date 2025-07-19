@@ -1,5 +1,5 @@
 ---
-title: 全排列
+title: 46. 全排列
 date: 2025-06-15 16:40:00 +0800
 categories: [Leetcode, Backtracking]
 tags: [leetcode, base, backtracking]

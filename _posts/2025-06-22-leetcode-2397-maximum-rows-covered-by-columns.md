@@ -1,5 +1,5 @@
 ---
-title: 被列覆盖的最多行数
+title: 2397. 被列覆盖的最多行数
 date: 2025-06-22 17:25:00 +0800
 categories: [Leetcode, Enumeration]
 tags: [leetcode, enumeration, bitset]

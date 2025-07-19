@@ -1,5 +1,5 @@
 ---
-title: 分割等和子集
+title: 416. 分割等和子集
 date: 2025-06-22 20:45:00 +0800
 categories: [Leetcode, Backpack]
 tags: [leetcode, backpack]

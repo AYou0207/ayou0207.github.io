@@ -1,5 +1,5 @@
 ---
-title: 括号生成
+title: 22. 括号生成
 date: 2025-06-15 17:10:00 +0800
 categories: [Leetcode, Backtracking]
 tags: [leetcode, backtracking, medium]

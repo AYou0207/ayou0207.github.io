@@ -1,5 +1,5 @@
 ---
-title: 删除子文件夹
+title: 1233. 删除子文件夹
 date: 2025-07-19 17:30:00 +0800
 categories: [Leetcode, Sort]
 tags: [leetcode, sort]

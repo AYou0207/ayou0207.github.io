@@ -1,5 +1,5 @@
 ---
-title: 执行操作可获得的最大总奖励 II
+title: 3181. 执行操作可获得的最大总奖励 II
 date: 2025-06-22 22:10:00 +0800
 categories: [Leetcode, Backpack]
 tags: [leetcode, backpack, hard, bitset]
