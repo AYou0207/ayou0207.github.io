@@ -7,6 +7,7 @@ author: ayou
 description: 背包问题集合。
 math: true
 comments: true
+pin: true
 ---
 
 ## 0-1 背包

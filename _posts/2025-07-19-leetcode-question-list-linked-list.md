@@ -6,6 +6,7 @@ tags: [leetcode, question-list, linked-list]
 author: ayou
 description: 链表题集
 comments: true
+pin: true
 ---
 
 ## 遍历链表
